@@ -1,0 +1,9 @@
+[submodule "video-stream-service"]
+	path = video-stream-service
+	url = https://github.com/andreya0/streamservice
+[submodule "Stream-FE"]
+	path = Stream-FE
+	url = https://github.com/andreya0/Stream-FE
+[submodule "video-chat-service"]
+	path = video-chat-service
+	url = https://github.com/andreya0/video-chat-service
